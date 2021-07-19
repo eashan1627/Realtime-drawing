@@ -1,0 +1,25 @@
+ .heading {
+     font-size:x-large;
+     box-shadow: 5px 5px 5px grey;
+     margin: 0px;
+ }
+
+ span {
+     color: black;
+     font-size: medium;
+ }
+
+ .footer {
+     background-color:grey;
+     color:white;
+     width:100%;
+     position: fixed;
+     bottom: 0;
+     line-height: 3;
+     text-align: center;
+ }
+
+ canvas {
+     border: 5px solid black;
+     border-radius: 75px;
+ }
